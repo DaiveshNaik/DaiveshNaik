@@ -106,7 +106,7 @@ Role-based platform for project/task assignment with real-time chat between stud
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](http://www.linkedin.com/in/daivesh-naik) — *DMs open for new opportunities!*
-- 🖥️ [Portfolio](https://daiveshnaik.me) — *See my work in action*
+- 🖥️ [Portfolio](https://www.daiveshnaik.me) — *See my work in action*
 - 📧 Email: **naikdaivesh@gmail.com**
 
 > **Ready to bring energy, skills, and innovation to your team! Reach out to discuss how I can add value to your organization.**
