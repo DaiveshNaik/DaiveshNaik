@@ -2,22 +2,27 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/daivesh-naik)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaiveshNaik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.daiveshnaik.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.daiveshnaik.codes/)
 
 ---
 
-🚀 **Full Stack Developer Intern**  
+🚀 Junior Full Stack Developer @ Anvex Ai Technologies
 🌍 Actively open to full-time opportunities!
 
 ---
 
-## 🔥 About Me
+## About Me
 
-I’m a passionate developer blending logical thinking and creativity to build impactful digital products. With broad experience across the stack, I thrive on solving real-world problems with scalable, robust, and user-centric solutions.
+I'm a passionate Junior Full Stack Developer with experience building scalable web applications, AI-powered platforms, computer vision systems, and cloud-native solutions.
 
-- 🏆 Two-time district-level football winner 
-- 🎓 BSc Computer Science | CGPA: **9.28/10**
-- 💬 Let’s connect for opportunities, collaborations, or a quick tech chat!
+Currently working at Anvex AI Technologies, where I develop enterprise-grade products using modern technologies across frontend, backend, AI, cloud, and DevOps.
+
+💼 Junior Full Stack Developer at Anvex AI Technologies
+🤖 Building AI-powered applications using LLMs, RAG Pipelines, and Computer Vision
+☁️ Working with AWS, Docker, Redis, CI/CD, and scalable architectures
+🎓 B.Sc. Computer Science | CGPA: 9.28/10
+⚽ Two-time District-Level Football Champion & Football Coach
+🌱 Always learning and exploring new technologies
 
 ---
 
