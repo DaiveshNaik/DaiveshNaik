@@ -1,30 +1,44 @@
 # 👋 Hi there, I'm Daivesh Naik!
 
+🚀 **Junior Full Stack Developer @Anvex Ai Technologies**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/daivesh-naik)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaiveshNaik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.daiveshnaik.codes/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.daiveshnaik.me)
 
 ---
 
-🚀 Junior Full Stack Developer @ Anvex Ai Technologies
-🌍 Actively open to full-time opportunities!
+## 💫 About Me
+
+- I'm a passionate **Full Stack Developer** with professional experience since **June 2025**, specializing in scalable web applications, AI-powered platforms, computer vision systems, and cloud-native solutions.
+
+- Scalable web applications  
+- AI-powered platforms  
+- Computer vision systems  
+- Cloud-native solutions
+
+Currently at **Anvex AI Technologies** (June 2025 – Present), where I develop enterprise-grade products leveraging modern full-stack, AI, and cloud technologies.
+
+- 💼 Junior Full Stack Developer at **Anvex AI Technologies**
+- 🤖 Building AI-powered applications using **LLMs, RAG pipelines, and Computer Vision**
+- ☁️ Working with **AWS, Docker, Redis, CI/CD, and scalable architectures**
+- 🎓 **B.Sc. Computer Science** | CGPA: **9.28/10**
+- ⚽ Two-time **District-Level Football Champion** & Football Coach
+- 🌱 Always learning and exploring emerging technologies
 
 ---
 
-## About Me
+## 🚀 What I Work On
 
-I'm a passionate Junior Full Stack Developer with experience building scalable web applications, AI-powered platforms, computer vision systems, and cloud-native solutions.
-
-Currently working at Anvex AI Technologies, where I develop enterprise-grade products using modern technologies across frontend, backend, AI, cloud, and DevOps.
-
-💼 Junior Full Stack Developer at Anvex AI Technologies
-🤖 Building AI-powered applications using LLMs, RAG Pipelines, and Computer Vision
-☁️ Working with AWS, Docker, Redis, CI/CD, and scalable architectures
-🎓 B.Sc. Computer Science | CGPA: 9.28/10
-⚽ Two-time District-Level Football Champion & Football Coach
-🌱 Always learning and exploring new technologies
-
----
+- Full Stack Web Applications  
+- AI-Powered Platforms  
+- Voice Assistant Systems  
+- Computer Vision Analytics  
+- Event-Driven Architectures  
+- Microservices  
+- Cloud Deployments  
+- Performance Optimization  
+- Scalable Backend Systems 
 
 ## 🛠️ Tech Stack
 
